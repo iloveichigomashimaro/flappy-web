@@ -1,0 +1,2 @@
+@echo off
+start chrome --allow-file-access-from-files "%~dp0index.html"
